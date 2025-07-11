@@ -30,7 +30,7 @@ Although I am already familiar with R, I have been **out of practice** for the p
 
 Now, as I return to more hands-on **biological data analysis and bioinformatics**, I am taking this course to **refresh my memory**, revisit key concepts, and rebuild fluency with R and the tidyverse.
 
-This course offers a structured, practical, and concise way to rebuild those skills.
+This course offers a structured, practical, and concise way to rebuild those skills. I have formatted the codes using chatGPT for proper markdown for github and added my comments or explorations where needed.
 
 ---
 
